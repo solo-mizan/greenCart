@@ -67,11 +67,11 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2.5">
                 <MapPin className="w-4 h-4 mt-0.5 text-brand-400 flex-shrink-0" />
-                <span>৪৫ গ্রিন রোড, ধানমন্ডি, ঢাকা ১২০৫</span>
+                <span>৪৫ খড়খড়ি বাইপাস, পবা, রাজশাহী</span>
               </li>
               <li className="flex items-center gap-2.5">
                 <Phone className="w-4 h-4 text-brand-400 flex-shrink-0" />
-                <a href="tel:01700000000" className="hover:text-brand-400">০১৭০০-০০০০০০</a>
+                <a href="tel:01700000000" className="hover:text-brand-400">০১৭১৯-৪০২৯৩৩</a>
               </li>
               <li className="flex items-center gap-2.5">
                 <Mail className="w-4 h-4 text-brand-400 flex-shrink-0" />
@@ -88,7 +88,7 @@ export default function Footer() {
 
       <div className="border-t border-gray-800">
         <div className="max-w-7xl mx-auto px-4 py-5 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-gray-500">
-          <p>© ২০২৫ গ্রিনকার্ট। সর্বস্বত্ব সংরক্ষিত।</p>
+          <p>© ২০২৬ গ্রিনকার্ট। সর্বস্বত্ব সংরক্ষিত।</p>
           <div className="flex gap-4">
             <a href="#" className="hover:text-gray-300">গোপনীয়তা নীতি</a>
             <a href="#" className="hover:text-gray-300">শর্তাবলী</a>
